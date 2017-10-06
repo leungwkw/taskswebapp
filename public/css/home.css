@@ -1,0 +1,93 @@
+#proj-panel-heading {
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+#proj-heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.nav-stacked a {
+    cursor: pointer;
+    word-wrap: break-word;
+}
+
+#no-proj-div, #main-div, #options-panel {
+    display: none;
+}
+
+#no-proj-div .panel-heading {
+    text-align: center;
+}
+
+#no-proj-div .panel-body {
+    text-align: center;
+}
+
+.task-header {
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+.new-task-panel {
+    display: none;
+}
+
+.task-item, .new-task-panel {
+    margin-bottom: 3px;
+}
+
+.task-item > .panel-body {
+    padding: 5px 10px;
+    word-wrap: break-word;
+    cursor: pointer;
+}
+
+.new-task-panel > .panel-body {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.new-task-panel .btn-xs {
+    padding-top: 4px;
+}
+
+.new-task-panel input {
+    width: 72%;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.new-task-panel i {
+    font-size: 125%;
+}
+
+.updated-at-sect {
+    font-size: 85%;
+}
+
+.alert {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn {
+    white-space: normal;
+    line-height: 1.25;
+}
+
+.small {
+    font-size: 80%;
+}
+
+#archives-modal-heading, #rec-del-modal-heading {
+    margin-left: 3px;
+}
+
+#rec-delete-modal label {
+    display: block;
+    font-weight: normal;
+}
